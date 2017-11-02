@@ -1,5 +1,5 @@
-#ifndef BIGLIETTERIA_H
-#define BIGLIETTERIA_H
+#ifndef CINEMA_H
+#define CINEMA_H
 
 class Cinema {
 public:
@@ -30,4 +30,4 @@ private:
     
 };
 
-#endif /* BIGLIETTERIA_H */
+#endif /* CINEMA_H */
